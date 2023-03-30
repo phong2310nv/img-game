@@ -1,0 +1,10 @@
+.cell {
+    aspect-ratio: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+}
+.cell:hover {
+    cursor: pointer;
+}
